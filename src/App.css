@@ -16,6 +16,8 @@ body {
   padding: 4em 0;
 }
 
+/* Turning pages Book */
+
 .imgLoader {
   position: fixed;
   -webkit-animation: preLoad 1s steps(1);
@@ -1057,6 +1059,12 @@ body {
 }
 .twitterLink img:hover {
   filter: grayscale(0%);
+}
+
+/* Foter */
+
+.footer-creator {
+  text-align: center;
 }
 
 
